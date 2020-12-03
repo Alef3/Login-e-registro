@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560822810724",
+    "firebase_url": "https://estoca-isso.firebaseio.com",
+    "project_id": "estoca-isso",
+    "storage_bucket": "estoca-isso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560822810724:android:9d90d7dc6da9b84682c771",
+        "android_client_info": {
+          "package_name": "com.cursodeandroid.cardview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560822810724-e360vd5ih14upmi7dbq9p0ibu6tmg29m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJclAanUKPPVbit_wlS-XqagJQg2VaoYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560822810724-e360vd5ih14upmi7dbq9p0ibu6tmg29m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

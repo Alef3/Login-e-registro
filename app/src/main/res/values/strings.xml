@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EstocaIsso</string>
+    <string name="categoria">Categoria</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="remover">Remover</string>
+</resources>
